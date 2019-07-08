@@ -1,0 +1,1 @@
+regsvr32.exe .\TVb3D65.dll
